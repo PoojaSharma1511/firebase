@@ -1,0 +1,26 @@
+diff --git a/src/index.css b/src/index.css
+index 299ee22..90823e0 100644
+--- a/src/index.css
++++ b/src/index.css
+@@ -193,16 +193,17 @@ label {
+   color: rgb(85, 83, 83);
+ }
+ .btn3 {
+-  padding: 10px 15px;
+-  background-color: #e93b2f;
++  padding: 10px 20px;
++  background-color: #087077;
+   color: #fff;
+   border: none;
+   border-radius: 10px;
+   
+   margin: 2px;
+ }
+-.btn3:hover{
+-  background-color: #e06c28;
++.btn1:hover{
++  background-color: #80e2b9;
++  color: rgb(85, 83, 83);
+ }
+ .btn2 {
+   display: flex;
